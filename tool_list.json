@@ -1,0 +1,40 @@
+{
+    "cloud_source": {
+        "primary": "https://raw.staticdn.net/sgcmgzs/toolbox-main/upload/main/tool_list.json",
+        "backup": "https://gitee.com/你的gitee用户名/仓库名/raw/main/tool_list.json"
+    },
+    "icon_base": {
+        "primary": "https://raw.staticdn.net/sgcmgzs/toolbox-main/tree/main/icons/",
+        "backup": "https://gitee.com/你的gitee用户名/仓库名/raw/main/icons/"
+    },
+    "parser_api": "这里填你的公共网盘解析器地址（用来转小飞机网盘分享链接为直链）",
+    "tools": [
+        {
+            "tool_name": "DiskGenius",
+            "file_name": "DiskGenius.zip",
+            "file_type": "zip",
+            "pan_share_link": "小飞机网盘的分享链接",
+            "icon": "DiskGenius.png",
+            "description": "硬盘分区维护工具",
+            "save_path": "./downloads/DiskGenius.zip"
+        },
+        {
+            "tool_name": "CrystalDiskInfo",
+            "file_name": "CrystalDiskInfo.exe",
+            "file_type": "exe",
+            "pan_share_link": "小飞机网盘的分享链接",
+            "icon": "CrystalDiskInfo.png",
+            "description": "硬盘健康检测",
+            "save_path": "./downloads/CrystalDiskInfo.exe"
+        },
+        {
+            "tool_name": "7zip",
+            "file_name": "7z2408-x64.msi",
+            "file_type": "msi",
+            "pan_share_link": "小飞机网盘的分享链接",
+            "icon": "7zip.png",
+            "description": "压缩解压工具",
+            "save_path": "./downloads/7z2408-x64.msi"
+        }
+    ]
+}

@@ -57,11 +57,11 @@
 #_============================================清理分区==============================================
 
 
-清理分区|HiBit Uninstaller|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/KEwCCjL8&auth=jgVisDQe8l5uza0fXDdLwNH7Wgazn%2BKNtSCIeuQDcDn0kW7qAwq0xzaoSl3UkE7G8QC8P4B1HYDZiUQ2RhzJrLSsEJa7VBeHWyiycc28mro%3D|4.0.10 (便携版)
+清理分区|HiBit Uninstaller|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/JRxaEV3y|4.0.10 (便携版)
 
 清理分区|WiseCare365 Pro|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/sywCCNB0&auth=jgVisDQe8l5uza0fXDdLwNH7Wgazn%2BKNtSCIeuQDcDn0kW7qAwq0xzaoSl3UkE7G8QC8P4B1HYDZiUQ2RhzJrLSsEJa7VBeHWyiycc28mro%3D|清理垃圾和注册表
 
-清理分区|wiztree文件扫描|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/oxwCCFOf&auth=jgVisDQe8l5uza0fXDdLwNH7Wgazn%2BKNtSCIeuQDcDn0kW7qAwq0xzaoSl3UkE7G8QC8P4B1HYDZiUQ2RhzJrLSsEJa7VBeHWyiycc28mro%3D|v4.27-Single
+清理分区|wiztree文件扫描|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/DvxaEbyj|v4.27-Single
 
 清理分区|Uninstall_Tool|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/XfwCCQVy&auth=jgVisDQe8l5uza0fXDdLwNH7Wgazn%2BKNtSCIeuQDcDn0kW7qAwq0xzaoSl3UkE7G8QC8P4B1HYDZiUQ2RhzJrLSsEJa7VBeHWyiycc28mro%3D|清理软件
 
@@ -73,7 +73,7 @@
 
 清理分区|C盘清理精灵|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/8BwCDTxB&auth=jgVisDQe8l5uza0fXDdLwNH7Wgazn%2BKNtSCIeuQDcDn0kW7qAwq0xzaoSl3UkE7G8QC8P4B1HYDZiUQ2RhzJrLSsEJa7VBeHWyiycc28mro%3D|深度清理
 
-清理分区|BC卸载工具|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/2BwCDGIM&auth=jgVisDQe8l5uza0fXDdLwNH7Wgazn%2BKNtSCIeuQDcDn0kW7qAwq0xzaoSl3UkE7G8QC8P4B1HYDZiUQ2RhzJrLSsEJa7VBeHWyiycc28mro%3D|备用清理
+清理分区|BC卸载工具|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/d8xaE6Qt|备用清理
 
 清理分区|WMO内存优化|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/Z7wCBj5d&auth=jgVisDQe8l5uza0fXDdLwNH7Wgazn%2BKNtSCIeuQDcDn0kW7qAwq0xzaoSl3UkE7G8QC8P4B1HYDZiUQ2RhzJrLSsEJa7VBeHWyiycc28mro%3D|内存清理4.2.0.123 x64 单文件版
 
@@ -84,8 +84,7 @@
 
 桌面美化|Nexus DOCK|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/v1wBIBzr&auth=jgVisDQe8l5uza0fXDdLwNH7Wgazn%2BKNtSCIeuQDcDn0kW7qAwq0xzaoSl3UkE7G8QC8P4B1HYDZiUQ2RhzJrLSsEJa7VBeHWyiycc28mro%3D|V26.5
 
-桌面美化|Rainmeter|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/1SwBSIQt&auth=jgVisDQe8l5uza0fXDdLwNH7Wgazn%2BKNtSCIeuQDcDn0kW7qAwq0xzaoSl3UkE7G8QC8P4B1HYDZiUQ2RhzJrLSsEJa7VBeHWyiycc28mro%3D
-|V4.4音频条、时间
+桌面美化|Rainmeter|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/1SwBSIQt|V4.4音频条、时间
 
 桌面美化|巨应壁纸 3.0|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/sGwBIcWj&auth=jgVisDQe8l5uza0fXDdLwNH7Wgazn%2BKNtSCIeuQDcDn0kW7qAwq0xzaoSl3UkE7G8QC8P4B1HYDZiUQ2RhzJrLSsEJa7VBeHWyiycc28mro%3D|V3.0
 
@@ -116,7 +115,7 @@
 
 #_============================================其他工具==============================================
 
-其他工具|Everything|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/X2x4DzQ6| Windows 上一款搜索引擎，它能够基于文件名快速定文件和文件夹位置
+其他工具|Everything|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/BJx49hSy| Windows 上一款搜索引擎，它能够基于文件名快速定文件和文件夹位置
 
 其他工具|http下载器|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/Kux4v40a|一个简单的HTTP(S)、FTP(S)和SFTP协议的下载管理器
 
@@ -166,7 +165,7 @@
 
 驱动程序|显卡工具箱|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/9txaTf3P|显卡驱动卸载安装，一键配置
 
-驱动程序|显卡驱动升级助手|https://share.feijipan.com/s/YGxaTo3C|多版本可下
+驱动程序|显卡驱动升级助手|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/YGxaTo3C|多版本可下
 
 驱动程序|罗技驱动|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/3txaARkJ|罗技驱动
 
@@ -176,7 +175,7 @@
 
 驱动程序|N卡驱动合集零度|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/fNxaBfwo|N卡驱动合集零度
 
-驱动程序|AMD显卡驱动|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/cwxaBidv|AMD显卡驱动
+驱动程序|AMD显卡驱动|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/bxxaF4THAMD显卡驱动
 
 驱动程序|N卡控制面板离线安装包|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/yjxaBLZE|N卡控制面板离线安装包
 
@@ -184,7 +183,7 @@
 
 驱动程序|奥创卸载工具|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/hJxaCFYp|离线包
 
-驱动程序|联想拯救者控制台|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/TzxaCUza|联想拯救者
+驱动程序|拯救者控制中心|https://lzupdate.lenovo.com.cn/official/LZSetup.exe|联想拯救者
 
 驱动程序|瓦尔基里Myth.cool|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/huxaCWC4|瓦尔基里Myth.cool
 

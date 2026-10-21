@@ -32,7 +32,7 @@
 
 系统优化|DirectX_Repair增强版|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/4hx3Br8a| 版本号【 (增强版V4.4)】
 
-系统优化|Windows11轻松设置|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/vsvSYgYe&auth=jgVisDQe8l5uza0fXDdLwNH7Wgazn%2BKNtSCIeuQDcDn0kW7qAwq0xzaoSl3UkE7G8QC8P4B1HYDZiUQ2RhzJrLSsEJa7VBeHWyiycc28mro%3D|1.11正式版【20250603】
+系统优化|Windows11轻松设置|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/BixaUOzc|1.11正式版【20250603】
 
 系统优化|net运行库|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/mvvSWOoO&auth=jgVisDQe8l5uza0fXDdLwNH7Wgazn%2BKNtSCIeuQDcDn0kW7qAwq0xzaoSl3UkE7G8QC8P4B1HYDZiUQ2RhzJrLSsEJa7VBeHWyiycc28mro%3D| net运行库
 
@@ -127,31 +127,47 @@
 
 其他工具|修复安全中心英文|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/p7x4tLxt|修复安全中心英文
 
-其他工具|工具名称|小飞机网盘分享链接|工具简介
+其他工具|恢复默认路径工具|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/mZxaUb64|恢复桌面文档视频图片下载音乐默认路径工具
 
-其他工具|工具名称|小飞机网盘分享链接|工具简介
+其他工具|蓝屏分析|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/EsxaUyH7|分析电脑蓝屏原因
 
-其他工具|工具名称|小飞机网盘分享链接|工具简介
+其他工具|家庭版没有组策略|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/T4xaUqea|解决家庭版没有组策略
 
+其他工具|清理机器码|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/tLxaULZx|清理机器码工具
 
+其他工具|蠕虫查杀工具|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/cbxaADgA|蠕虫查杀工具
 
+其他工具|删除pe启动项|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/CexaUKDI|删除pe启动项
+
+其他工具|一键解决任务栏失效|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/U8xaAMvY|一键解决任务栏失效
+
+其他工具|360 DNS优选|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/s9xaAP5u|360 DNS优选
+
+其他工具|FixWin 11.1|https://share.feijipan.com/s/PGxaAaeV|FixWin 11.1
+
+其他工具|Dism++x64|https://share.feijipan.com/s/EFxaAcd3|Dism++x64
+
+其他工具|远程工具箱|https://share.feijipan.com/s/9GxaAf7V|远程工具箱
 
 
 #_============================================驱动程序==============================================
 
 驱动程序|驱动总裁|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/lKx3DOtp|一键驱动
 
-驱动程序|工具名称|小飞机网盘分享链接|工具简介
+驱动程序|驱动大师|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/YpxaTuuX|360驱动大师
+
+驱动程序|驱动精灵|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/hrxaTI5o|比较慢
 
 驱动程序|工具名称|小飞机网盘分享链接|工具简介
 
-驱动程序|工具名称|小飞机网盘分享链接|工具简介
+驱动程序|显卡驱动DDU卸载|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/h1xaTwPq|显卡驱动DDU卸载
 
-驱动程序|工具名称|小飞机网盘分享链接|工具简介
+驱动程序|显卡工具箱|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/9txaTf3P|显卡驱动卸载安装，一键配置
 
-驱动程序|工具名称|小飞机网盘分享链接|工具简介
+驱动程序|显卡驱动升级助手|https://share.feijipan.com/s/YGxaTo3C|多版本可下
 
-驱动程序|工具名称|小飞机网盘分享链接|工具简介
+
+
 
 驱动程序|工具名称|小飞机网盘分享链接|工具简介
 

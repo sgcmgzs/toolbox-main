@@ -143,11 +143,14 @@
 
 其他工具|360 DNS优选|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/s9xaAP5u|360 DNS优选
 
-其他工具|FixWin 11.1|https://share.feijipan.com/s/PGxaAaeV|FixWin 11.1
+其他工具|FixWin 11.1|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/PGxaAaeV|FixWin 11.1
 
-其他工具|Dism++x64|https://share.feijipan.com/s/EFxaAcd3|Dism++x64
+其他工具|Dism++x64|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/EFxaAcd3|Dism++x64
 
-其他工具|远程工具箱|https://share.feijipan.com/s/9GxaAf7V|远程工具箱
+其他工具|远程工具箱|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/9GxaAf7V|远程工具箱
+
+其他工具|桌面白图标|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/yyxaDZmJ|桌面白图标
+
 
 
 #_============================================驱动程序==============================================
@@ -158,26 +161,56 @@
 
 驱动程序|驱动精灵|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/hrxaTI5o|比较慢
 
-驱动程序|工具名称|小飞机网盘分享链接|工具简介
-
 驱动程序|显卡驱动DDU卸载|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/h1xaTwPq|显卡驱动DDU卸载
 
 驱动程序|显卡工具箱|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/9txaTf3P|显卡驱动卸载安装，一键配置
 
 驱动程序|显卡驱动升级助手|https://share.feijipan.com/s/YGxaTo3C|多版本可下
 
+驱动程序|罗技驱动|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/3txaARkJ|罗技驱动
 
+驱动程序|迈从驱动|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/noxaBZzg|迈从驱动
 
+驱动程序|雷蛇驱动|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/rbxaB3vB|雷蛇驱动
 
-驱动程序|工具名称|小飞机网盘分享链接|工具简介
+驱动程序|N卡驱动合集零度|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/fNxaBfwo|N卡驱动合集零度
 
-驱动程序|工具名称|小飞机网盘分享链接|工具简介
+驱动程序|AMD显卡驱动|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/cwxaBidv|AMD显卡驱动
 
+驱动程序|N卡控制面板离线安装包|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/yjxaBLZE|N卡控制面板离线安装包
+
+驱动程序|奥创云下载|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/nCxaCBWu|在线下载
+
+驱动程序|奥创卸载工具|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/hJxaCFYp|离线包
+
+驱动程序|联想拯救者控制台|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/TzxaCUza|联想拯救者
+
+驱动程序|瓦尔基里Myth.cool|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/huxaCWC4|瓦尔基里Myth.cool
 
 
 #_============================================常规软件==============================================
 
-常规软件|工具名称|小飞机网盘分享链接|工具简介
+常规软件|IDM|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/Z5xaC2kt|IDM多版本
+
+常规软件|Mocreak微软办公软件下载|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/XZxaCbWR|Mocreak微软办公软件下载
+
+常规软件|pot player播放器|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/lmxaCeA4|pot player播放器
+
+常规软件|2345看图王V13.4|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/X0xaC84f|2345看图王去广告版
+
+常规软件|图吧工具箱202601绿色版|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/TsxaCwpx|图吧工具箱202601绿色版
+
+常规软件|NDM1.1|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/N1xaCixp|免安装汉化版
+
+常规软件|7-Zip压缩解压|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/ROxaCl90|7-Zip压缩解压v25.0.1美化增强版
+
+常规软件|搜狗输入法|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/BzxaCnoH|搜狗输入法v15.8.0.2239去广告优化版
+
+常规软件|截图工具PixPin_2.0.0.3|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/ynxaCphD|截图工具PixPin_2.0.0.3
+
+常规软件|Wallpaper Engine壁纸一键提取|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/3BxaCsYC|Wallpaper Engine壁纸一键提取 RePKG-GUI_v0.0.1.2
+
+常规软件|WPS|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/h0xaDE5I|WPS电信定制版_12.8.2.18205_Setup
 
 常规软件|工具名称|小飞机网盘分享链接|工具简介
 
@@ -187,12 +220,6 @@
 
 常规软件|工具名称|小飞机网盘分享链接|工具简介
 
-常规软件|工具名称|小飞机网盘分享链接|工具简介
 
-常规软件|工具名称|小飞机网盘分享链接|工具简介
 
-常规软件|工具名称|小飞机网盘分享链接|工具简介
 
-常规软件|工具名称|小飞机网盘分享链接|工具简介
-
-常规软件|工具名称|小飞机网盘分享链接|工具简介

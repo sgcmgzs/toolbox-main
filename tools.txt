@@ -22,10 +22,11 @@
 
 
 
+
 #_===========================================系统优化=======================================
 
 
-系统优化|BoosterX (优化)|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/HXwF29Pq&auth=jgVisDQe8l5uza0fXDdLwNH7Wgazn%2BKNtSCIeuQDcDn0kW7qAwq0xzaoSl3UkE7G8QC8P4B1HYDZiUQ2RhzJrLSsEJa7VBeHWyiycc28mro%3D| 系统多功能修复优化
+系统优化|BoosterX (优化)|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/VKx3wdhx| 系统多功能修复优化
 
 系统优化|微软常用运行库|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/a7vSYLmV&auth=jgVisDQe8l5uza0fXDdLwNH7Wgazn%2BKNtSCIeuQDcDn0kW7qAwq0xzaoSl3UkE7G8QC8P4B1HYDZiUQ2RhzJrLSsEJa7VBeHWyiycc28mro%3D| 版本号【 2025.09.16】
 
@@ -48,6 +49,11 @@
 系统优化|WebView2|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/I3wEIWV4&auth=jgVisDQe8l5uza0fXDdLwNH7Wgazn%2BKNtSCIeuQDcDn0kW7qAwq0xzaoSl3UkE7G8QC8P4B1HYDZiUQ2RhzJrLSsEJa7VBeHWyiycc28mro%3D| 154.0.4258.48-x64
 
 系统优化|一键重启进入BIOS|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/l6wBUXsG&auth=jgVisDQe8l5uza0fXDdLwNH7Wgazn%2BKNtSCIeuQDcDn0kW7qAwq0xzaoSl3UkE7G8QC8P4B1HYDZiUQ2RhzJrLSsEJa7VBeHWyiycc28mro%3D|系统维护
+
+系统优化|浏览器清理|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/tWx3vIWX|浏览器清理重置
+
+系统优化|右键菜单管理工具|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/3Kx3yxts|ContextMenuManager
+
 
 #_============================================清理分区==============================================
 
@@ -90,6 +96,8 @@
 桌面美化|网易千千壁纸|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/97wBIKl2&auth=jgVisDQe8l5uza0fXDdLwNH7Wgazn%2BKNtSCIeuQDcDn0kW7qAwq0xzaoSl3UkE7G8QC8P4B1HYDZiUQ2RhzJrLSsEJa7VBeHWyiycc28mro%3D
 |1.3.23.8
 
+桌面美化|TranslucentTB|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/4FwMdHtg|透明栏
+
 桌面美化|CTM 透明工具|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/FCwBIyPu&auth=jgVisDQe8l5uza0fXDdLwNH7Wgazn%2BKNtSCIeuQDcDn0kW7qAwq0xzaoSl3UkE7G8QC8P4B1HYDZiUQ2RhzJrLSsEJa7VBeHWyiycc28mro%3D
 |系统设置 备用透明
 
@@ -98,6 +106,8 @@
 
 桌面美化|图标库|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/PYw0VNQS&auth=jgVisDQe8l5uza0fXDdLwNH7Wgazn%2BKNtSCIeuQDcDn0kW7qAwq0xzaoSl3UkE7G8QC8P4B1HYDZiUQ2RhzJrLSsEJa7VBeHWyiycc28mro%3D
 |dock栏图标修复库
+
+桌面美化|鼠标美化|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/4bx3gHMs|鼠标皮肤美化
 
 桌面美化|一键美化|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/8oxMu9vq&auth=jgVisDQe8l5uza0fXDdLwNH7Wgazn%2BKNtSCIeuQDcDn0kW7qAwq0xzaoSl3UkE7G8QC8P4B1HYDZiUQ2RhzJrLSsEJa7VBeHWyiycc28mro%3D
 |一键时间音频条、DOCK\透明栏
@@ -129,7 +139,7 @@
 
 #_============================================驱动程序==============================================
 
-驱动程序|工具名称|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/lKx3DOtp|工具简介
+驱动程序|驱动总裁|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/lKx3DOtp|一键驱动
 
 驱动程序|工具名称|小飞机网盘分享链接|工具简介
 

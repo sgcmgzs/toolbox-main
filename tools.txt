@@ -52,7 +52,6 @@
 
 系统优化|浏览器清理|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/tWx3vIWX|浏览器清理重置
 
-系统优化|右键菜单管理工具|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/3Kx3yxts|ContextMenuManager
 
 
 #_============================================清理分区==============================================
@@ -150,6 +149,8 @@
 其他工具|远程工具箱|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/9GxaAf7V|远程工具箱
 
 其他工具|桌面白图标|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/yyxaDZmJ|桌面白图标
+
+系统优化|右键菜单管理工具|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/tBxaDueX|ContextMenuManager
 
 
 

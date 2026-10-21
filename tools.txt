@@ -26,7 +26,7 @@
 #_===========================================系统优化=======================================
 
 
-系统优化|BoosterX (优化)|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/VKx3wdhx| 系统多功能修复优化
+系统优化|BoosterX (优化)|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/HXwF29Pq| 系统多功能修复优化
 
 系统优化|微软常用运行库|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/a7vSYLmV&auth=jgVisDQe8l5uza0fXDdLwNH7Wgazn%2BKNtSCIeuQDcDn0kW7qAwq0xzaoSl3UkE7G8QC8P4B1HYDZiUQ2RhzJrLSsEJa7VBeHWyiycc28mro%3D| 版本号【 2025.09.16】
 
@@ -107,7 +107,7 @@
 桌面美化|图标库|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/PYw0VNQS&auth=jgVisDQe8l5uza0fXDdLwNH7Wgazn%2BKNtSCIeuQDcDn0kW7qAwq0xzaoSl3UkE7G8QC8P4B1HYDZiUQ2RhzJrLSsEJa7VBeHWyiycc28mro%3D
 |dock栏图标修复库
 
-桌面美化|鼠标美化|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/4bx3gHMs|鼠标皮肤美化
+桌面美化|鼠标美化|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/X2x4DzQ6|鼠标皮肤美化
 
 桌面美化|一键美化|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/8oxMu9vq&auth=jgVisDQe8l5uza0fXDdLwNH7Wgazn%2BKNtSCIeuQDcDn0kW7qAwq0xzaoSl3UkE7G8QC8P4B1HYDZiUQ2RhzJrLSsEJa7VBeHWyiycc28mro%3D
 |一键时间音频条、DOCK\透明栏
@@ -117,13 +117,13 @@
 
 #_============================================其他工具==============================================
 
-其他工具|工具名称|小飞机网盘分享链接|工具简介
+其他工具|Everything|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/X2x4DzQ6| Windows 上一款搜索引擎，它能够基于文件名快速定文件和文件夹位置
 
-其他工具|工具名称|小飞机网盘分享链接|工具简介
+其他工具|http下载器|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/Kux4v40a|一个简单的HTTP(S)、FTP(S)和SFTP协议的下载管理器
 
-其他工具|工具名称|小飞机网盘分享链接|工具简介
+其他工具|steam图标修复|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/Yox4vRAm|修复Steam游戏图标变白板
 
-其他工具|工具名称|小飞机网盘分享链接|工具简介
+其他工具|关闭uac|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/Dbx4wYZm|关闭用户账户控制（UAC）
 
 其他工具|工具名称|小飞机网盘分享链接|工具简介
 

@@ -1,6 +1,6 @@
 # 格式：分类|工具名称|小飞机网盘分享链接|工具简介
 
-装机维护|天喵一键装机|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/fRvSD2Io&auth=jgVisDQe8l5uza0fXDdLwNH7Wgazn%2BKNtSCIeuQDcDn0kW7qAwq0xzaoSl3UkE7G8QC8P4B1HYDZiUQ2RhzJrLSsEJa7VBeHWyiycc28mro%3D|PE装机维护
+装机维护|天喵一键装机|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/fRvSD2Io|PE装机维护
 
 装机维护|技术员一键重装|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/6JvSD8bK&auth=jgVisDQe8l5uza0fXDdLwNH7Wgazn%2BKNtSCIeuQDcDn0kW7qAwq0xzaoSl3UkE7G8QC8P4B1HYDZiUQ2RhzJrLSsEJa7VBeHWyiycc28mro%3D|PE装机维护 
 

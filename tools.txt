@@ -53,6 +53,10 @@
 
 系统优化|浏览器清理|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/tWx3vIWX|浏览器清理重置
 
+系统优化|BX|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/QhxdPyO1|BX压缩版
+
+
+
 
 
 #_============================================清理分区==============================================

@@ -181,7 +181,7 @@
 
 驱动程序|瓦尔基里Myth.cool|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/huxaCWC4|瓦尔基里Myth.cool
 
-驱动程序|利民水冷|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/3txaARkJ|V2.1.8TRCC Control Software
+驱动程序|利民水冷|https://files.zohopublic.com.cn/public/workdrive-public/download/hstg86d96e562348b45339d3445ba10545f1a?x-cli-msg=%7B%22linkId%22%3A%221JT1ZPDZhfc-38zSx%22%2C%22isFileOwner%22%3Afalse%2C%22version%22%3A%221.0%22%2C%22isWDSupport%22%3Afalse%7D|V2.1.8TRCC Control Software
 
 驱动程序|罗技驱动|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/3txaARkJ|罗技驱动
 

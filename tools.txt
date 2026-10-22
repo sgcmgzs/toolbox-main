@@ -58,7 +58,7 @@
 #_============================================清理分区==============================================
 
 
-清理分区|HiBit Uninstaller|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/JRxaEV3y|4.0.10 (便携版)
+清理分区|软件卸载工具|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/JRxaEV3y|4.0.10 (便携版)
 
 清理分区|WiseCare365 Pro|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/sywCCNB0&auth=jgVisDQe8l5uza0fXDdLwNH7Wgazn%2BKNtSCIeuQDcDn0kW7qAwq0xzaoSl3UkE7G8QC8P4B1HYDZiUQ2RhzJrLSsEJa7VBeHWyiycc28mro%3D|清理垃圾和注册表
 
@@ -108,8 +108,7 @@
 
 桌面美化|鼠标美化|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/X2x4DzQ6|鼠标皮肤美化
 
-桌面美化|一键美化|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/8oxMu9vq&auth=jgVisDQe8l5uza0fXDdLwNH7Wgazn%2BKNtSCIeuQDcDn0kW7qAwq0xzaoSl3UkE7G8QC8P4B1HYDZiUQ2RhzJrLSsEJa7VBeHWyiycc28mro%3D
-|一键时间音频条、DOCK\透明栏
+桌面美化|一键美化|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/NtxdTt7F|一键时间音频条、DOCK\透明栏
 
 
 
@@ -203,7 +202,11 @@
 
 常规软件|IDM|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/Z5xaC2kt|IDM多版本
 
+常规软件|office部署|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/lFxaurCr|office部署
+
 常规软件|Mocreak微软办公软件下载|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/XZxaCbWR|Mocreak微软办公软件下载
+
+常规软件|WPS|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/h0xaDE5I|WPS电信定制版_12.8.2.18205
 
 常规软件|pot player播放器|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/lmxaCeA4|pot player播放器
 
@@ -221,5 +224,6 @@
 
 常规软件|Wallpaper Engine壁纸一键提取|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/3BxaCsYC|Wallpaper Engine壁纸一键提取 RePKG-GUI_v0.0.1.2
 
-常规软件|WPS|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/h0xaDE5I|WPS电信定制版_12.8.2.18205_Setup
+
+
 

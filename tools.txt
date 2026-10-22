@@ -149,7 +149,7 @@
 
 其他工具|桌面白图标|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/yyxaDZmJ|桌面白图标
 
-系统优化|右键菜单管理工具|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/tBxaDueX|ContextMenuManager
+其他工具|右键菜单管理工具|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/tBxaDueX|ContextMenuManager
 
 
 
@@ -161,11 +161,27 @@
 
 驱动程序|驱动精灵|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/hrxaTI5o|比较慢
 
+驱动程序|N卡驱动合集零度|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/fNxaBfwo|N卡驱动合集零度
+
+驱动程序|AMD显卡驱动|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/bxxaF4THAMD显卡驱动
+
+驱动程序|N卡控制面板离线安装包|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/yjxaBLZE|N卡控制面板离线安装包
+
 驱动程序|显卡驱动DDU卸载|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/h1xaTwPq|显卡驱动DDU卸载
 
 驱动程序|显卡工具箱|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/9txaTf3P|显卡驱动卸载安装，一键配置
 
 驱动程序|显卡驱动升级助手|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/YGxaTo3C|多版本可下
+
+驱动程序|GCC|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/19xa8LX9|技嘉灯控
+
+驱动程序|铭瑄Sync|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/Ofxa9Mll|铭瑄Sync
+
+驱动程序|微星MSI|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/UAxa9q8h|Center_2.0.75.0.exe
+
+驱动程序|瓦尔基里Myth.cool|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/huxaCWC4|瓦尔基里Myth.cool
+
+驱动程序|利民水冷|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/3txaARkJ|V2.1.8TRCC Control Software
 
 驱动程序|罗技驱动|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/3txaARkJ|罗技驱动
 
@@ -173,19 +189,13 @@
 
 驱动程序|雷蛇驱动|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/rbxaB3vB|雷蛇驱动
 
-驱动程序|N卡驱动合集零度|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/fNxaBfwo|N卡驱动合集零度
-
-驱动程序|AMD显卡驱动|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/bxxaF4THAMD显卡驱动
-
-驱动程序|N卡控制面板离线安装包|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/yjxaBLZE|N卡控制面板离线安装包
-
 驱动程序|奥创云下载|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/nCxaCBWu|在线下载
 
 驱动程序|奥创卸载工具|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/hJxaCFYp|离线包
 
 驱动程序|拯救者控制中心|https://lzupdate.lenovo.com.cn/official/LZSetup.exe|联想拯救者
 
-驱动程序|瓦尔基里Myth.cool|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/huxaCWC4|瓦尔基里Myth.cool
+
 
 
 #_============================================常规软件==============================================
@@ -211,15 +221,4 @@
 常规软件|Wallpaper Engine壁纸一键提取|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/3BxaCsYC|Wallpaper Engine壁纸一键提取 RePKG-GUI_v0.0.1.2
 
 常规软件|WPS|https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/h0xaDE5I|WPS电信定制版_12.8.2.18205_Setup
-
-常规软件|工具名称|小飞机网盘分享链接|工具简介
-
-常规软件|工具名称|小飞机网盘分享链接|工具简介
-
-常规软件|工具名称|小飞机网盘分享链接|工具简介
-
-常规软件|工具名称|小飞机网盘分享链接|工具简介
-
-
-
 
